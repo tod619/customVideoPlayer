@@ -1,2 +1,10 @@
 /* Import styles font-family: 'Questrial', sans-serif; */
 @import url("https://fonts.googleapis.com/css?family=Questrial&display=swap");
+/* Reset */
+* {
+  box-sizing: border-box;
+}
+/* body */
+body {
+  font-family: "Questrial", sans-serif;
+}
