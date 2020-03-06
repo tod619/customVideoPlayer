@@ -15,3 +15,17 @@ body {
   max-height: 100vh;
   margin: 0;
 }
+
+/* heading */
+h1 {
+  color: #fff;
+}
+
+/* Screen */
+.screen {
+  cursor: pointer;
+  width: 50%;
+  background-color: #000 !important;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
